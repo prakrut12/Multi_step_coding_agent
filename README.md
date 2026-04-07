@@ -31,6 +31,8 @@ python -m streamlit run app.py
 
 Deployed Link: 
 
-UIPreview image: <img width="596" height="530" alt="image" src="https://github.com/user-attachments/assets/7bde408b-bcf0-493b-a395-3ce408052b1f" />
+UI Preview image:
+
+<img width="596" height="530" alt="image" src="https://github.com/user-attachments/assets/7bde408b-bcf0-493b-a395-3ce408052b1f" />
 
 
