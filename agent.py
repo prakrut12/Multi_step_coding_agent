@@ -1,7 +1,10 @@
 import google.generativeai as genai
 
 # 🔑 Put your Gemini API key here
-genai.configure(api_key="AIzaSyAtbO1HOAXSJNhxK2PTtPeIvhuseqb8cMA")
+import streamlit as st
+
+
+genai.configure(api_key=st.secrets["GEMINI_API_KEY"]))
 
 # Try loading model
 try:
