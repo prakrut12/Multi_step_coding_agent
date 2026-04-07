@@ -29,7 +29,7 @@ pip install streamlit google-generativeai
 How to run:
 python -m streamlit run app.py
 
-Deployed Link: 
+Deployed Link: https://multistepcodingagent-in3q7auccsoy2ovrpvms4c.streamlit.app/
 
 UI Preview image:
 
